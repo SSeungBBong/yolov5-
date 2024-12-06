@@ -17,4 +17,4 @@ Ctrl + shift + p를 눌러 Python select interperter를 누른다.
 
 pip install –r requirements.txt 
 ***
-6. 디버깅을 해서 결과를 확인한다.
+5. 디버깅을 해서 결과를 확인한다.
