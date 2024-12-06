@@ -6,8 +6,6 @@
 2. 파일탐색기에서 code로 열기를 한다.
 ***
 3. 가상환경을 설정한다.
-***
-
 터미널창에서 conda create -n myyolo python=3.9 (이름은 자유롭게)
 
 Ctrl + shift + p를 눌러 Python select interperter를 누른다.
