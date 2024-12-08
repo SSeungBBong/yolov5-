@@ -22,3 +22,4 @@ pip install –r requirements.txt
 person.py - 사람인식
 
 phone.py - 휴대폰 인식
+***
