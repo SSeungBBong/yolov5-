@@ -20,4 +20,5 @@ pip install –r requirements.txt
 5. 디버깅을 해서 결과를 확인한다.
 
 person.py - 사람인식
+
 phone.py - 휴대폰 인식
